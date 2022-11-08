@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Dhruvin
+- aspiring full stack webdevloper
+- keen on learning and exploring new technologies
+- Happy coding!!!
 
 
 <!---
