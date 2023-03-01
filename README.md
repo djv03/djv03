@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Dhruvin
-- aspiring full stack webdevloper
+- aspiring full stack developer
+- looking for guidence nd colloboration on open-source 
 - keen on learning and exploring new technologies
 - Happy coding!!!
 
