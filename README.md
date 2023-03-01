@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhruvin
-- aspiring full stack developer
-- looking for guidence nd colloboration on open-source 
+- full stack developer
+- looking for guidence nd colloboration on open-source projects 
 - keen on learning and exploring new technologies
 - Happy coding!!!
 
